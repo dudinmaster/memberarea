@@ -1,1 +1,3 @@
 ini view tambahan baru bang
+ini view 
+di edit terbaru dari github
